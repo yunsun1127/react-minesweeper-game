@@ -1,5 +1,8 @@
 # minesweeper
 
+### 데모
+https://user-images.githubusercontent.com/64072104/177014257-e4353266-f01e-45e5-8d3c-fa9abd37f19a.mov
+
 ### 개발 환경
 
 node version의 경우 lts인 `v16.15.1`을 사용했습니다.
